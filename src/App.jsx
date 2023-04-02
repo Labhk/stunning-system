@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-            Netlify
+            Netlify <strong>Deploy Review</strong>
         </p>
       </div>
       <p className="read-the-docs">
